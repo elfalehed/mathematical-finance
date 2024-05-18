@@ -1,2 +1,2 @@
 # mathematical-finance
-🎲 Roadmap to learn mathematical finance, resources, applications on 
+🎲 Embark on a journey through the intricate landscape of mathematical finance, where equations dance with market dynamics, guiding us through risk, reward, and the ever-elusive quest for financial understanding.
